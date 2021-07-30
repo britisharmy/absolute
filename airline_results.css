@@ -1,0 +1,380 @@
+/*
+	@name airline_results
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_airline_results_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 729px;
+	height: 172px;
+}
+
+#_bg__airline_results_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 729px;
+	height: 172px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 731px;
+	height: 173px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 11px;
+	left: 13px;
+	width: 64px;
+	height: 36px;
+}
+
+
+#rectangle_3 {
+	top: 80px;
+	left: 13px;
+	width: 64px;
+	height: 36px;
+}
+
+
+#multiple__airlines {
+	top: 47px;
+	left: 13px;
+	width: 52px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+
+#ethiopian_airlines {
+	top: 117px;
+	left: 13px;
+	width: 54px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+
+#operated_by_ukraine_international_airlines {
+	top: 147px;
+	left: 13px;
+	width: 228px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 12px;
+	text-align: left;
+	color:#707070;
+}
+
+
+#_4_25_am {
+	top: 25px;
+	left: 117px;
+	width: 46px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0a0707;
+}
+
+
+#nbo {
+	top: 40px;
+	left: 126px;
+	width: 29px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+
+#_6_00pm {
+	top: 25px;
+	left: 263px;
+	width: 44px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0a0707;
+}
+
+
+#kbp {
+	top: 40px;
+	left: 268px;
+	width: 26px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+
+#_11h_07m {
+	top: 33px;
+	left: 346px;
+	width: 50px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0a0a0a;
+}
+
+
+#_21h_23m {
+	top: 77px;
+	left: 346px;
+	width: 50px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0e0c0c;
+}
+
+
+#_4_25_am_ek1 {
+	top: 70px;
+	left: 117px;
+	width: 46px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0a0707;
+}
+
+
+#nbo_ek1 {
+	top: 85px;
+	left: 126px;
+	width: 29px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+
+#_6_00pm_ek1 {
+	top: 70px;
+	left: 263px;
+	width: 44px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#0a0707;
+}
+
+
+#kbp_ek1 {
+	top: 85px;
+	left: 268px;
+	width: 26px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	color:#707070;
+}
+
+#group_6 {
+	top: 80px;
+	left: 164px;
+	width: 93px;
+	height: 9px;
+}
+
+#line_1 {
+	top: 5px;
+	left: 0px;
+	width: 40px;
+	height: 1px;
+}
+
+
+#line_2 {
+	top: 5px;
+	left: 53px;
+	width: 40px;
+	height: 1px;
+}
+
+#group_4 {
+	top: 0px;
+	left: 41px;
+	width: 12px;
+	height: 9px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 11px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#line_3 {
+	top: 0px;
+	left: 544px;
+	width: 1.9999847412109px;
+	height: 171.005859375px;
+}
+
+
+#icon_awesome_share_alt {
+	top: 17px;
+	left: 557px;
+	width: 21.849975585938px;
+	height: 27.200012207031px;
+}
+
+
+#rectangle_5 {
+	top: 128px;
+	left: 557px;
+	width: 158px;
+	height: 39px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #707070;
+	background:rgba(52,97,189,255);
+}
+
+
+#view_deal {
+	top: 134px;
+	left: 596px;
+	width: 84px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	color:#f9f9f9;
+}
+
+
+#__1_600 {
+	top: 59px;
+	left: 629px;
+	width: 84px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#090707;
+}
+
+#group_7 {
+	top: 31px;
+	left: 164px;
+	width: 93px;
+	height: 9px;
+}
+
+#line_1_ek1 {
+	top: 5px;
+	left: 0px;
+	width: 40px;
+	height: 1px;
+}
+
+
+#line_2_ek1 {
+	top: 5px;
+	left: 53px;
+	width: 40px;
+	height: 1px;
+}
+
+#group_4_ek1 {
+	top: 0px;
+	left: 41px;
+	width: 12px;
+	height: 9px;
+}
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 11px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+
+/* Add your custom CSS here */
